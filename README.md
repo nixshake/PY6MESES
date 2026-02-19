@@ -1,4 +1,4 @@
-# ADS-SEMESTRE1
+# Python - 6 meses
 📘 1. Variáveis e Tipos de Dados (1–20)
 🧠 Conceito de memória
 
